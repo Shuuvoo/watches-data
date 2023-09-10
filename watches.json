@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Smartwatch 86",
+    "version": "v1.0"
+  },
+  {
+    "id": 2,
+    "name": "Smartwatch 2",
+    "version": "v2.1"
+  },
+  {
+    "id": 3,
+    "name": "Smartwatch 3",
+    "version": "v1.2"
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch 4",
+    "version": "v3.0"
+  },
+  {
+    "id": 5,
+    "name": "Smartwatch 5",
+    "version": "v2.5"
+  }
+]
